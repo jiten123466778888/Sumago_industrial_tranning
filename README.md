@@ -1,0 +1,1 @@
+# Sumago_industrial_tranning
