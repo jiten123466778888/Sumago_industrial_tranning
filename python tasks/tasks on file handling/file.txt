@@ -1,0 +1,1 @@
+program that writes a message in the file , file1.txt(this line for checking the writelune method )
